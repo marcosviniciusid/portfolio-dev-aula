@@ -3,11 +3,11 @@
 
 Conceitos que foram aplicados:
 
-👉 Estrutura base com HTML
-👉 Estilização com o Tailwind
-👉 Variáveis em PHP
-👉 Arrays
-👉 Funções
-👉 Componentes em PHP
+- Estrutura base com HTML
+- Estilização com o Tailwind
+- Variáveis em PHP
+- Arrays
+- Funções
+- Componentes em PHP
 
 ![Imagem do projeto](/img/portfolio-dev-aula.jpeg)
